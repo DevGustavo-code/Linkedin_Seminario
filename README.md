@@ -27,7 +27,7 @@ Este projeto está sob a <strong>Licença MIT</strong>.
 
 Faça o clone do repositório:
 
-git clone https://github.com/seu-usuario/Linkedin_Seminario.git
+git clone [https://github.com/seu-usuario/Linkedin_Seminario.git](https://github.com/DevGustavo-code/Linkedin_Seminario.git)
 
 
 Abra o arquivo <strong>index.html</strong> no navegador da sua escolha.
