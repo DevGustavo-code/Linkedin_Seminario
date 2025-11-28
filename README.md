@@ -34,8 +34,8 @@ Abra o arquivo <strong>index.html</strong> no navegador da sua escolha.
 
 Ou visualize diretamente pelo GitHub Pages:
 
-https://devgustavo-code.github.io/Linkedin_Seminario/
-
+<a target="_blanck">https://devgustavo-code.github.io/Linkedin_Seminario/
+</a>
 
 
 
